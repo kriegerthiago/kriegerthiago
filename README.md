@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago</h1>
-   🔭 I’m currently working on **Utility-Plumber**
+<h1 align="center">Hi 👋, I'm Thiago</h1>  
 
    🌱 I’m currently learning **C#,JavaScript and Angular**   
    📫 How to reach me **https://www.linkedin.com/in/thiago-krieger-46bb56171/**  
